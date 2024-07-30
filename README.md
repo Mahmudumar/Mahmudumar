@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything python
 - 📫 How to reach me mahmudumar476@gmail.com
-- ☕ Buy me a book and pen [here](https://paystack.com/pay/supportMahmud)!
+- 📖 Buy me a book and pen [here](https://paystack.com/pay/supportMahmud)!
 
 
 ## My Skills:
