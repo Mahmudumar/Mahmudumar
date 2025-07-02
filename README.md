@@ -1,20 +1,44 @@
-# Mahmud Umar
-- 👋 Hi, I’m @Mahmudumar
-- 👀 I’m interested in programming and testing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything python
-- 📫 How to reach me mahmudumar476@gmail.com
-- 📖 Buy me a book and pen [here](https://paystack.com/pay/supportMahmud)!
+# 👋 Hello, I'm Mahmud Umar
+
+I'm a passionate and curious programmer on a journey to master Python and explore the world of software development.
+
+- 🔎 Currently focused on learning **Python** and writing clean, testable code  
+- 💡 Interested in **programming**, **software testing**, and **building useful tools**
+- 🤝 Open to collaborating on beginner-friendly **Python projects** and anything that helps me grow
+- 📬 You can reach me at: **mahmudumar476@gmail.com**
+- 📚 Support my learning journey → [Buy me a book and pen](https://paystack.com/pay/supportMahmud)
+
+---
+
+## 🧠 Current Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+> I'm still learning every day — especially by building, breaking, and fixing things. 💪
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudumar&layout=compact&theme=tokyonight)
 
 
-## My Skills:
+---
 
-![image](https://github.com/Mahmudumar/Mahmudumar/assets/90246975/1dde0db1-7790-48d8-9b25-0d64d5144670)
-![image](https://github.com/Mahmudumar/Mahmudumar/assets/90246975/51e5d3ee-4a07-4df5-8897-6839c879c70f)
+## 📈 GitHub Stats
+
+<!-- You can uncomment these if you want GitHub stats -->
+
+![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmudumar&show_icons=true&theme=radical)
 
 
+---
 
-<!---
-Mahmudumar/Mahmudumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Goals for 2025
+
+- Build and contribute to real-world Python projects  
+- Learn the basics of **JavaScript** and **SQL**  
+- Create tools or apps that help other learners like me  
+
+---
+
+Thanks for stopping by! Let’s build something cool together. 🌍
