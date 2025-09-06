@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mahmud Umar
 
-I'm a passionate and curious programmer on a journey to master Python and explore the world of software development.
+I'm a passionate programmer on a journey to master Python and explore the world of software development.
 
 - 🔎 Currently focused on learning **Python** and writing clean, testable code  
 - 💡 Interested in **programming**, **software testing**, and **building useful tools**
@@ -29,16 +29,3 @@ I'm a passionate and curious programmer on a journey to master Python and explor
 <!-- You can uncomment these if you want GitHub stats -->
 
 ![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmudumar&show_icons=true&theme=radical)
-
-
----
-
-## 🚀 Goals for 2025
-
-- Build and contribute to real-world Python projects  
-- Learn the basics of **JavaScript** and **SQL**  
-- Create tools or apps that help other learners like me  
-
----
-
-Thanks for stopping by! Let’s build something cool together. 🌍
