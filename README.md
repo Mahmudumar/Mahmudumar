@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mahmud Umar
 
-I'm a passionate programmer on a journey to master Python and explore the world of software development.
+I just like making offline-friendly software
 
 - 🔎 Currently focused on learning **Python** and writing clean, testable code  
 - 💡 Interested in **programming**, **software testing**, and **building useful tools**
